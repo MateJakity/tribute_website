@@ -32,7 +32,7 @@ img {
 #img-div {
   background: #fff;
   margin: 0 10px; }
-  #img-div img {
+  #img-div image {
     display: block;
     max-width: 100%;
     height: auto;
